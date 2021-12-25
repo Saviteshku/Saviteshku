@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Saviteshku
+- 👋 Hi, I’m Savi
 - 👀 I’m interested in Nutrigenetic, Nutrigenomics and Data analytics
 - 🌱 I’m currently learning Machine Learing and Deep Learning in prediction of diseases
 - 💞️ I’m looking to collaborate on development of deep learning techniques in food recognition.
